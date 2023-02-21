@@ -12,7 +12,7 @@ Se rendre ensuite dans `python > plugins`, c'est dans ce répertoire que nous in
 
 ### 2. Télécharger l'extension
 
-Cliquer sur [ce lien](https://github.com/infogeo54/SMC/archive/master.zip) pour lancer le téléchargement.
+Cliquer sur [ce lien](https://github.com/infogeo54/SMC_QGIS22/archive/master.zip) pour lancer le téléchargement.
 
 L'extension est téléchargée au **format ZIP**, il est donc nécessaire de la **décompresser** avant de continuer.
 
